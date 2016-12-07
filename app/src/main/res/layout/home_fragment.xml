@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--对文本的描述：tv_描述_所属模块-->
+    <TextView
+        android:id="@+id/tv_description_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!" />
+
+    <!--按钮的命名规范：btn_描述_所属模块-->
+    <Button
+        android:id="@+id/btn_query_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="查看" />
+
+</LinearLayout>

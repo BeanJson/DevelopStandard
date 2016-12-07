@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--home page by down of icon selector-->
+    <item android:drawable="@drawable/rb_icon_home" android:state_checked="true" />
+    <!--home page by up of icon selector-->
+    <item android:drawable="@drawable/rb_icon_home" />
+
+
+</selector>

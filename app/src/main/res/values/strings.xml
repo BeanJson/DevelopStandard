@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">DevelopStandard</string>
+
+    <!--  create by app detail page -->
+    <string name="tv_detail_title">应用详情</string>
+    <string name="btn_detail_share">分享</string>
+    <string name="tv_detail_version">版本</string>
+    <string name="btn_detail_favorites">收藏</string>
+    <!--  create by app tabs -->
+    <string-array name="tab_names">
+        <item>首页</item>
+        <item>发现</item>
+        <item>推荐</item>
+        <item>购物车</item>
+        <item>我的</item>
+    </string-array>
+
 </resources>

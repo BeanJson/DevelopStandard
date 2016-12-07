@@ -8,4 +8,22 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <!-- title style by common -->
+    <style name="headerTitle" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/colorTitle</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/header_Title</item>
+    </style>
+    <!-- download  button  by  home -->
+    <style name="btn_download_home">
+        <item name="android:textColor">@color/colorDownload_home</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/download_home</item>
+    </style>
+
+
 </resources>

@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!-- project need of common -->
+    <color name="colorTitle">#fff</color>
+    <!-- create by home -->
+    <color name="colorDownload_home">#f00</color>
+    <!-- create by mine -->
+    <color name="colorLoad_mine">#00f</color>
+
 </resources>

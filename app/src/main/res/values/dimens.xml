@@ -2,4 +2,10 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- title style by common -->
+    <dimen name="header_Title">16sp</dimen>
+    <!--  create by home page -->
+    <dimen name="download_home">10sp</dimen>
+
 </resources>
